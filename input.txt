@@ -1,0 +1,8 @@
+.text
+ADD X0 X1
+SUB X2 X3
+LOAD X0 5
+STORE X2 10
+
+.data
+4 100 18 10
